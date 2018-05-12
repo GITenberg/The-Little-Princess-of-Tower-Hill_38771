@@ -1,0 +1,42 @@
+_repo: The-Little-Princess-of-Tower-Hill_38771
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38771-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Meade, Lillie
+    - Mead, L. T.
+    - Meade, Mrs. L. T.
+    - Meade, Elizabeth Thomasina
+    - Smith, Elizabeth Thomasina Meade
+    - Thomas, Elizabeth
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2012-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Only child -- Juvenile fiction'
+- !lcsh 'Social classes -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Governesses -- Juvenile fiction'
+- !lcsh 'Obedience -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Pets -- Juvenile fiction'
+- !lcsh 'Wealth -- Juvenile fiction'
+title: The Little Princess of Tower Hill
+url: http://www.gutenberg.org/ebooks/38771
